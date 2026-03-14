@@ -26,7 +26,7 @@
 
 ## 📈 Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](model_comparison.png)
 
 ## 🎯 Predicted vs Actual
 
