@@ -30,7 +30,7 @@
 
 ## 🎯 Predicted vs Actual
 
-![Predicted vs Actual](images/predicted_vs_actual.png)
+![Predicted vs Actual](predicted_vs_actual.png)
 
 ---
 
@@ -50,9 +50,9 @@
 
 > Which features drive Dubai property prices the most?
 
-![SHAP Importance](images/shap_importance.png)
+![SHAP Importance](shap_importance.png)
 
-![SHAP Beeswarm](images/shap_beeswarm.png)
+![SHAP Beeswarm](shap_beeswarm.png)
 
 > **How to read the beeswarm:** Red = high feature value, Blue = low. Points to the right push price **up**, left push price **down**.
 
